@@ -34,8 +34,6 @@ mongoose
 const port = 3000;
 app.listen(port, () => console.log(`server is running on port ${port}`));
 
-// username = sumitsonawane;
-// password = Sumit@123
 
 console.log("Server is working!!!")
 
