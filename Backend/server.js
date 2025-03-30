@@ -9,7 +9,7 @@ const app = express();
 
 app.use(bodyParser.json())
 app.use(cors({
-  origin:true,
+  origin:"https://live-project-3qzc.onrender.com",
   methods:["GET","POST","PUT","DELETE"],
   credentials:true
  
